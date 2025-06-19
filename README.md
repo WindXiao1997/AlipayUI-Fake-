@@ -1,2 +1,5 @@
 # AlipayUI-Fake-
-Alipay UIの模倣
+Alipay UIの模倣，違法な目的で使用しないでください
+これは単なる大学生の宿題です...
+Imitation of Alipay UI, do not use for illegal purposes！
+This is just a college student's homework...
